@@ -1,5 +1,4 @@
 <?php
-//COPYRIGHT VBOUT.COM
 include("simple_html_dom2.php");
 //------------------------------------------------------------------
 
