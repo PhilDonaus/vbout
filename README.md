@@ -1,2 +1,3 @@
-# vbout
-# This is my first git. 
+# vbout.com
+# I built this program in January of 2017 as an intern at Vbout.com a digitial marketing agency. I hereby affirm that I, Philippe Donaus, am the creator and sole owner of the project in this repository and the files contained in it. This publication may not be emailed to anyone else, shared electronically or physically, manipulated, copied, reprinted and sold for profit, altered, or reproduced in any form or by any means without requesting further permission from the owner.
+# To inquire about further permission for this document, you must contact Philippe Donaus, philippe.donaus@gmail.com
